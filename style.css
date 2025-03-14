@@ -1,13 +1,13 @@
 body {
-    font-family: "Times New Roman", serif;
-    background-color: #ADD8E6; /* Baby blue */
+    font-family: "Times New Roman", serif; /* First customization: setting font as Times New Roman */
+    background-color: #ADD8E6; /* Second customization: setting background color as a light blue */
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #6CA6CD; /* Darker blue */
+    background-color: #6CA6CD; /* Third customization: setting header as darker blue */
     color: white;
     padding: 15px;
     text-align: center;
@@ -37,7 +37,7 @@ section {
 
 h1, h2, h3 {
     font-weight: bold;
-    color: #4682B4; /* Slightly darker blue for headings */
+    color: #4682B4; /* Setting the headings as a slightly darker blue */
 }
 
 img {
@@ -50,7 +50,7 @@ img {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #6CA6CD; /* Darker blue */
+    background-color: #6CA6CD; /* Setting the footer as as a darker blue */
     color: white;
     margin-top: 20px;
 }
